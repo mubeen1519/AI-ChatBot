@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AI Chatbot</string>
+    <string name="welcometxt">Welcome To AI Chatbot\n Try it now</string>
+    <string name="sendplaceholdertxt">Ask Something</string>
+</resources>
